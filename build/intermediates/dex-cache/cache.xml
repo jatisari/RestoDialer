@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="dbb18f8f63e80bd08c6517bd2b735e8c85e3b98c">
+        <dex dex="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_82f568fff32b8a0ee74a22ca575e58a253667f1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_0750d390898eaf0527f4b70154034f4d94b71f1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_2480f9d08dadc59319bce54956bd67f8bb635bfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_2b4477dbc62f48f53efa971889a8368d2010ec98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3d4843bdc54b637183bc80ce304a4db73c611e87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_79e63fc29a729835837c2fb15b248cad7d38186a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_7b909dd61cfd658a8d999f0d7dfb6bfee6549eeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_e8f29c19686ab23d05681e8f255a2c2875a4b7c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_ff4ff3ca2e5ffdbd21206df64d7541c80f166dfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3cdb0c5dbace98f2297866b1b5304a1551f2595e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Training/BraimaTics/dec2016/source/BelajarImplicitIntent/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/agus/Training/BraimaTics/dec2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bc62be09dceccb4830323589d225e97cfe4ecab5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_d1b73dca92664aa1d203a69c80629dc22b4f0db7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c544f8b9974e8d0f330dc1e25487f20e1ba379af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_927f95ff3ebc306647678b83eeac08ff6bda9436/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_577a2994027f7bf82d552b856300fbb9b69021bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_0c1412cb45de86d03f05c3481865c240a0b2d56b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="436ef6c6b9e4dfebe5276190fa4d4ef52b3ba4eb">
+        <dex dex="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7f0847d1394584595b5950da9916a1ba67db6f84/classes.dex" />
+    </item>
+    <item
+        jar="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8f996b6893c331f3c921976b96c3a711c2fa55e4">
+        <dex dex="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_82f568fff32b8a0ee74a22ca575e58a253667f1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d1eae89335aed746371ea6ef78d86bc81d20c6bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_60fd0dd503975a1ab53b47100b8a9e1f02e6f5e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/agus/Training/BraimaTics/agustus2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_0fcab779db1f3a01772bfde058ec73118682af78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agus/Training/BraimaTics/dec2016/source/BelajarImplicitIntent/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65fbb8bbdebcdaf773f1b1fdbb324b6269a1e17c">
+        <dex dex="/Users/agus/Training/BraimaTics/dec2016/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_52bdb48c81bf145dc82ebd1f28e55a6dc81d9945/classes.dex" />
+    </item>
+
+</items>

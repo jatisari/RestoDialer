@@ -1,0 +1,4 @@
+#Tue Sep 26 13:54:26 WIB 2017
+base.0=/Users/agus/Training/BraimaTics/may2017/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/agus/Training/BraimaTics/may2017/source/BelajarImplicitIntent/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

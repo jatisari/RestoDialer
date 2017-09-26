@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Belajar Implicit Intent</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="hello_world">Halo Dunia</string>
+    <string name="jadwal_puasa">Jadwal Puasa</string>
+    <string name="pesan_kfc">Pesan KFC</string>
+    <string name="pesan_mcdonald">Pesan McDonald</string>
+    <string name="runtime_permissions_txt">Izinkan Akses</string>
+</resources>
